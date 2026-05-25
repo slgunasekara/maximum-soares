@@ -16,7 +16,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```python
 class Praveena:
@@ -33,7 +33,7 @@ class Praveena:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -44,17 +44,17 @@ class Praveena:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### 🗄️ Backend & Database
+### Backend & Database
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🔧 Tools & Platforms
+### Tools & Platforms
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -87,10 +87,11 @@ class Praveena:
 |---|---|---|
 | 🇬🇧 University of Bolton | BSc Hons — Computer Software Engineering | Feb 2025 – Feb 2028 |
 | 🇱🇰 IJSE — Institute of Software Engineering | Graduate Diploma in Software Engineering | Jan 2025 – May 2027 |
+| 🇱🇰 IJSE — Institute of Software Engineering | Graduate Diploma in AI/ML Engineering | Jan 2025 – May 2026 |
 
 ---
 
-## 💼 Experience
+## Experience
 
 <table>
   <tr>
@@ -107,7 +108,7 @@ class Praveena:
 
 ---
 
-## 🌟 What I'm Up To
+## What I'm Up To
 
 - 🔭 Currently studying **Computer Software Engineering** at University of Bolton
 - 🌱 Deepening my skills in **Full-Stack Development**, **Data Analysis** & **System Design**
@@ -117,7 +118,7 @@ class Praveena:
 
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -127,12 +128,12 @@ class Praveena:
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/](https://www.linkedin.com/in/praveena-gunasekara-4a46a5352/))
+[![Email](https://img.shields.io/badge/Email-Say_Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveengunasekara7@gmail.com)
 
 <br/>
 
