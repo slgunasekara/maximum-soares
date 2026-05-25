@@ -118,15 +118,6 @@ class Praveena:
 
 ---
 
-## Activity Graph
-
-<div align="center">
-
-[![Praveena's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
 
 ## Let's Connect!
 
